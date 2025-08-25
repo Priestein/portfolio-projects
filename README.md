@@ -81,7 +81,7 @@ Skills / Tech Stack
 
 Contact
 -------
-Built by Kim Frederick Pam – connect with me on GitHub: https://github.com/kimfrederickpam
+Built by Priestein connect with me on GitHub: https://github.com/Priestein 
 
 License & Attribution
 ---------------------
